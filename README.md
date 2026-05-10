@@ -20,6 +20,7 @@ Beginner-friendly implementation
 
 # Technologies Used
 TypeScript
+
 Node.js 
 
 # Key TypeScript Concepts Used
